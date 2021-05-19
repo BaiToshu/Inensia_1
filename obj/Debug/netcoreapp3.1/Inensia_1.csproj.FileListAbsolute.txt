@@ -1,0 +1,15 @@
+C:\Users\tote5002\source\repos\Inensia_1\Inensia_1\bin\Debug\netcoreapp3.1\Inensia_1.exe
+C:\Users\tote5002\source\repos\Inensia_1\Inensia_1\bin\Debug\netcoreapp3.1\Inensia_1.deps.json
+C:\Users\tote5002\source\repos\Inensia_1\Inensia_1\bin\Debug\netcoreapp3.1\Inensia_1.runtimeconfig.json
+C:\Users\tote5002\source\repos\Inensia_1\Inensia_1\bin\Debug\netcoreapp3.1\Inensia_1.runtimeconfig.dev.json
+C:\Users\tote5002\source\repos\Inensia_1\Inensia_1\bin\Debug\netcoreapp3.1\Inensia_1.dll
+C:\Users\tote5002\source\repos\Inensia_1\Inensia_1\bin\Debug\netcoreapp3.1\Inensia_1.pdb
+C:\Users\tote5002\source\repos\Inensia_1\Inensia_1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\tote5002\source\repos\Inensia_1\Inensia_1\obj\Debug\netcoreapp3.1\Inensia_1.csprojAssemblyReference.cache
+C:\Users\tote5002\source\repos\Inensia_1\Inensia_1\obj\Debug\netcoreapp3.1\Inensia_1.AssemblyInfoInputs.cache
+C:\Users\tote5002\source\repos\Inensia_1\Inensia_1\obj\Debug\netcoreapp3.1\Inensia_1.AssemblyInfo.cs
+C:\Users\tote5002\source\repos\Inensia_1\Inensia_1\obj\Debug\netcoreapp3.1\Inensia_1.csproj.CoreCompileInputs.cache
+C:\Users\tote5002\source\repos\Inensia_1\Inensia_1\obj\Debug\netcoreapp3.1\Inensia_1.csproj.CopyComplete
+C:\Users\tote5002\source\repos\Inensia_1\Inensia_1\obj\Debug\netcoreapp3.1\Inensia_1.dll
+C:\Users\tote5002\source\repos\Inensia_1\Inensia_1\obj\Debug\netcoreapp3.1\Inensia_1.pdb
+C:\Users\tote5002\source\repos\Inensia_1\Inensia_1\obj\Debug\netcoreapp3.1\Inensia_1.genruntimeconfig.cache
